@@ -1,0 +1,21 @@
+[11:38:27] ERROR > Lasoon-大蒜 | naaptol.com: Tried to execute a command requiring the '' permission
+[11:39:22] ERROR > Lasoon-大蒜 | naaptol.com: Tried to execute a command requiring the '' permission
+[11:52:38] ERROR > Lasoon-大蒜 | naaptol.com: Tried to execute a command requiring the '' permission
+[11:52:52] ERROR > Lasoon-大蒜 | naaptol.com: Tried to execute a command requiring the '' permission
+[11:53:55] INFO > Lasoon-大蒜 | naaptol.com: Opened the menu
+[11:54:11] INFO > Lasoon-大蒜 | naaptol.com: Opened the menu
+[12:06:15] INFO > Lasoon-大蒜 | naaptol.com: Opened the menu
+[12:10:09] INFO > Lasoon-大蒜 | naaptol.com: Opened the menu
+[12:26:10] INFO > Lasoon-大蒜 | naaptol.com: Opened the menu
+[12:58:00] ERROR > Cruzifer: Tried to execute a command requiring the '' permission
+[12:58:53] INFO > Lasoon-大蒜 | naaptol.com: Opened the menu
+[01:00:05] INFO > Lasoon-大蒜 | naaptol.com: Opened the menu
+[01:00:10] INFO > Lasoon-大蒜 | naaptol.com: Healed user ID 76561198329196056 for 100 points
+[01:00:14] INFO > Lasoon-大蒜 | naaptol.com: Hurt user ID 76561198329196056 for 50 points
+[01:00:17] INFO > Lasoon-大蒜 | naaptol.com: Healed user ID 76561198329196056 for 100 points
+[01:00:22] INFO > Lasoon-大蒜 | naaptol.com: Reset the metabolism of user ID 76561198329196056
+[01:00:25] INFO > Lasoon-大蒜 | naaptol.com: Reset the metabolism of user ID 76561198329196056
+[01:00:26] INFO > Lasoon-大蒜 | naaptol.com: Recovered the metabolism of user ID 76561198329196056
+[01:14:13] INFO > Lasoon-大蒜 | naaptol.com: Opened the menu
+[02:18:26] INFO > Lasoon-大蒜 | naaptol.com: Opened the menu
+[02:18:32] INFO > Cruzifer: Teleported to admin Lasoon-大蒜 | naaptol.com
