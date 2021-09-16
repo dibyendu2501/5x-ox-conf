@@ -1,0 +1,131 @@
+{
+  "settings": {
+    "Tabs": [
+      {
+        "ButtonText": "Rules",
+        "HeaderText": "Server Rules",
+        "Pages": [
+          {
+            "TextLines": [
+              "",
+              "- Play just for fun. We are very strict against any type of toxicity (racism, sexism, abusing)",
+              "- Report hackers through Admin DM in Discord. No team up with hackers.",
+              "- Max team/clan limit is 6 (including sleepers)",
+              "- No Complain against kill/raid unless someone is using any exploit/hack",
+              "",
+              "type <color=red> /info </color> to open this window"
+            ],
+            "ImageSettings": [
+              {
+                "Position": {
+                  "MinX": 0.2,
+                  "MaxX": 0.8,
+                  "MinY": 0.2,
+                  "MaxY": 0.8
+                },
+                "Url": "",
+                "TransparencyInPercent": 100
+              }
+            ]
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 32,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": "default"
+      },
+      {
+        "ButtonText": "Commands",
+        "HeaderText": "Commands available to all",
+        "Pages": [
+          {
+            "TextLines": [
+              "",
+              "- Use <color=orange> /tpr | /tpa | /bandit | /outpost </color> to teleport",
+              "- Use <color=orange> /mymini | /fmini | /nomini </color> to use mini copter",
+              "",
+              "type <color=red> /info </color> to open this window"
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 32,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": "default"
+      },
+      {
+        "ButtonText": "VIP Info",
+        "HeaderText": "VIP Info",
+        "Pages": [
+          {
+            "TextLines": [
+              "",
+              "VIP pass here is created considering gameplay style",
+              "- 2 types of VIP pass (VIP, VIP+)",
+              "- Both VIP pass is for 30 days",
+              "",
+              "type <color=red> /info </color> to open this window"
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 32,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      }
+    ],
+    "ShowInfoOnPlayerInit": true,
+    "ShowInfoOnlyOncePerRuntime": true,
+    "TabToOpenByDefault": 0,
+    "Position": {
+      "MinX": 0.15,
+      "MaxX": 0.9,
+      "MinY": 0.2,
+      "MaxY": 0.9
+    },
+    "BackgroundImage": {
+      "Enabled": false,
+      "Position": {
+        "MinX": 0.0,
+        "MaxX": 1.0,
+        "MinY": 0.0,
+        "MaxY": 1.0
+      },
+      "Url": "http://7-themes.com/data_images/out/35/6889756-black-backgrounds.jpg",
+      "TransparencyInPercent": 100
+    },
+    "ActiveButtonColor": "#0255255255",
+    "InactiveButtonColor": "#128128128255",
+    "CloseButtonColor": "#128128128255",
+    "CloseButtonText": "Close",
+    "NextPageButtonColor": "#128128128255",
+    "NextPageText": "Next Page",
+    "PrevPageButtonColor": "#128128128255",
+    "PrevPageText": "Prev Page",
+    "BackgroundColor": "#007380",
+    "HelpButton": {
+      "IsEnabled": false,
+      "Text": "Help",
+      "Position": {
+        "MinX": 0.0,
+        "MaxX": 0.05,
+        "MinY": 0.1,
+        "MaxY": 0.14
+      },
+      "Color": "#128128128255",
+      "FontSize": 18
+    },
+    "UpgradedConfig": false
+  }
+}

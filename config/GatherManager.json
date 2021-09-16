@@ -29,29 +29,24 @@
     "ExcavatorResourceModifiers": {},
     "ExcavatorResourceTickRate": 3.0,
     "ExcavatorTimeForFullResources": 120.0,
-    "GatherDispenserModifiers": {},
+    "GatherDispenserModifiers": {
+      "Flesh": 2.0,
+      "Ore": 2.0,
+      "Tree": 2.0
+    },
     "GatherResourceModifiers": {
-      "Wood": 5.0,
-      "Stones": 5.0,
-      "Cloth": 5.0,
       "*": 5.0,
-      "Sulfur Ore": 2.5
+      "Scrap": 5.0,
+      "Sulfur Ore": 3.0
     },
     "MiningQuarryResourceTickRate": 5.0,
     "PickupResourceModifiers": {
-      "Stones": 5.0,
-      "Metal Ore": 5.0,
-      "Sulfur Ore": 2.5,
-      "Cloth": 5.0,
-      "Wood": 5.0,
-      "*": 5.0
+      "Sulfur Ore": 3.0,
+      "*": 5.0,
+      "Scrap": 5.0
     },
-    "QuarryResourceModifiers": {
-      "Stones": 5.0
-    },
-    "SurveyResourceModifiers": {
-      "Sulfur Ore": 2.5
-    }
+    "QuarryResourceModifiers": {},
+    "SurveyResourceModifiers": {}
   },
   "Settings": {
     "ChatPrefix": "Gather Manager",
