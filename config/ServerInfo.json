@@ -13,6 +13,8 @@
               "- Max team/clan limit is 6 (including sleepers)",
               "- No Complain against kill/raid unless someone is using any exploit/hack",
               "",
+              "- Server will check <color=red>previous hack/ban</color> for players. So keep steam profile <color=green>public</color>.",
+              "",
               "type <color=red> /info </color> to open this window"
             ],
             "ImageSettings": [
@@ -38,14 +40,23 @@
         "OxideGroup": "default"
       },
       {
-        "ButtonText": "Commands",
-        "HeaderText": "Commands available to all",
+        "ButtonText": "Features",
+        "HeaderText": "Server Features & Commands",
         "Pages": [
           {
             "TextLines": [
               "",
-              "- Use <color=orange> /tpr | /tpa | /bandit | /outpost </color> to teleport",
-              "- Use <color=orange> /mymini | /fmini | /nomini </color> to use mini copter",
+              "- 5x Server (Sulfur 3x)",
+              "- Teleport | Use <color=orange> /tpr | /tpa | /bandit | /outpost </color> to telepor",
+              "- Mini Spawn | Use <color=orange> /mymini | /fmini | /nomini </color> to use mini copter",
+              "- Backpack | Button available. Use <color=orange> bind i chat.say /backpack </color> for faster access",
+              "- Kits | Use <color=orange> /kit </color> to see available kits",
+              "- Remover Tool | Use <color=orange> /remove </color> to remove objects",
+              "- Instant Craft",
+              "- 10x Fast Recycle",
+              "- Fast Smelt",
+              "- Bigger Stack Size",
+              "- More unique item in loot crates",
               "",
               "type <color=red> /info </color> to open this window"
             ],
