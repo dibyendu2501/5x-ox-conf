@@ -1,0 +1,29 @@
+{
+  "AdditionalKickMessage": "",
+  "ApiKey": "C54DB3CAA8A566F57FEBA97A14B929E1",
+  "BroadcastKick": false,
+  "CacheDeniedPlayers": false,
+  "CachePassedPlayers": true,
+  "Kicking": {
+    "CommunityBan": true,
+    "TradeBan": true,
+    "PrivateProfile": true,
+    "LimitedAccount": true,
+    "NoProfile": false,
+    "FamilyShare": false,
+    "ForceHoursPlayedKick": false
+  },
+  "LogInsteadofKick": false,
+  "Thresholds": {
+    "MaxVACBans": 1,
+    "MinDaysSinceLastBan": -1,
+    "MaxGameBans": 1,
+    "MinSteamLevel": 2,
+    "MaxAccountCreationTime": -1,
+    "MinGameCount": 3,
+    "MinRustHoursPlayed": -1,
+    "MaxRustHoursPlayed": -1,
+    "MinOtherGamesPlayed": 2,
+    "MinAllGamesHoursPlayed": -1
+  }
+}
