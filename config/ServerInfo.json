@@ -26,7 +26,7 @@
                   "MaxY": 0.8
                 },
                 "Url": "",
-                "TransparencyInPercent": 100
+                "TransparencyInPercent": 0
               }
             ]
           }
@@ -124,7 +124,7 @@
     "NextPageText": "Next Page",
     "PrevPageButtonColor": "#128128128255",
     "PrevPageText": "Prev Page",
-    "BackgroundColor": "#007380",
+    "BackgroundColor": "#726e5a",
     "HelpButton": {
       "IsEnabled": false,
       "Text": "Help",
